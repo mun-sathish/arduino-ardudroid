@@ -1,5 +1,5 @@
 /*
- *  Project: Line Follower
+ *  Project: Ardudroid
  *  Name: V. Sathish (munna)
  *  Website: http://www.sathishmun.comule.com/
  */
