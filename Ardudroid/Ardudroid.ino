@@ -1,4 +1,10 @@
+/*
+ *  Project: Line Follower
+ *  Name: V. Sathish (munna)
+ *  Website: http://www.sathishmun.comule.com/
+ */
 
+ 
 #define START_CMD_CHAR '*'
 #define END_CMD_CHAR '#'
 #define DIV_CMD_CHAR '|'
